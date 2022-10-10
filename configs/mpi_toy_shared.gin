@@ -23,4 +23,4 @@ get_model_args.concepts_num_rest = 10
 get_model_args.num_channels = 3
 get_model_args.lr = 1e-4
 get_model_args.lr_sche = False
-get_model_args.path = "results/2022-04-01_09-02-36/checkpoints/model_200.pth"
+get_model_args.path = "/path/to/your/checkpoints"

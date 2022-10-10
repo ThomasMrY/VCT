@@ -2,7 +2,7 @@ get_train_flags.without_ml = True
 
 
 get_args.name = "church"
-get_args.data_dir = "../../guided-diffusion/datasets"
+get_args.data_dir = "/path/to/your/datasets"
 get_args.dataset_dir_name = "coco/train2017/"
 get_args.num_steps = 10
 get_args.step_lr = 10

@@ -1,9 +1,15 @@
 # Visual Concepts Tokenization
+<a href="https://arxiv.org/abs/2205.10093"><img src="https://img.shields.io/badge/arXiv-2102.10303-b31b1b.svg"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 This is the official PyTorch implementation of NeurIPS 2022 paper: Visual Concepts Tokenization
 [Arxiv](https://arxiv.org/abs/2205.10093) | [OpenReview](https://openreview.net/forum?id=rWgfLdqVVl_&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FConference%2FAuthors%23your-submissions)).
 
-Tao Yang, Yuwang Wang, Yan Lu, Nanning Zheng
+> **Visual Concepts Tokenization** <br>
+> Tao Yang, Yuwang Wang, Yan Lu, Nanning Zheng <br>
+> *arXiv preprint arXiv:2102.10303*<br>
+> *NeurIPS 2022*<br>
+
 <p align="center">
     <img src="./assets/model.jpeg" width="90%" />
 </p>
@@ -134,7 +140,7 @@ Note that this project is built upon [VQ-VAE](https://github.com/nadavbh12/VQ-VA
 
 The paper is still under review.
 
-```
+```bibtex
 @article{yang2022visual,
   title={Visual Concepts Tokenization},
   author={Yang, Tao and Wang, Yuwang and Lu, Yan and Zheng, Nanning},
