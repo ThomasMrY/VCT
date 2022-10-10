@@ -1,0 +1,9 @@
+get_train_flags.without_ml = True
+
+
+get_args.name = "clever"
+get_args.data_dir = "../../guided-diffusion/datasets"
+get_args.batch_size = 32
+get_args.num_steps = 10
+get_args.step_lr = 10
+get_args.image_energy = False
