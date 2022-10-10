@@ -138,8 +138,6 @@ Note that this project is built upon [VQ-VAE](https://github.com/nadavbh12/VQ-VA
 
 # Citation
 
-The paper is still under review.
-
 ```bibtex
 @article{yang2022visual,
   title={Visual Concepts Tokenization},
